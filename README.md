@@ -44,3 +44,9 @@
 - Learning NoSQL  
 - Preparation for PFE  
 - Learning Game Development
+
+### ⚙️ Fun Code Block
+
+const hello = "Hello, world!";
+const name = "Sybous Mohamed";
+console.log(`${hello} I am ${name} 👋`);
