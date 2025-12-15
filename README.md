@@ -47,6 +47,8 @@
 
 ### ⚙️ Fun Code Block
 
+```javascript
 const hello = "Hello, world!";
 const name = "Sybous Mohamed";
 console.log(`${hello} I am ${name} 👋`);
+
