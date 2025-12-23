@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sybous-mohamed&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sybous-mohamed&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Contact Me
 <div align="left">
   <a href="mailto:mohamed.sybous@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="25" alt="gmail logo" /></a>
