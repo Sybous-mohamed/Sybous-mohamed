@@ -9,16 +9,15 @@
 
 ### 🚀 Current Focus
 🔭 Working on improving my skills and university projects:  
-- Web Development (HTML, CSS, JavaScript, PHP, Python, Java)  
-- Databases (MySQL)  
+- Web Development (HTML, CSS, JavaScript, PHP, Python, Java, Svelte, FastApi)  
+- Databases (MySQL, Sqlite)  
 - Basics of AI & Machine Learning  
-- Collaborative coding projects on GitHub  
 
 ---
 
 ### 🧰 Skills
-🤖 Programming & Development: Python • Java • PHP • JavaScript  
-💻 Web & Database: HTML • CSS • MySQL  
+🤖 Programming & Development: Python • Java • PHP • JavaScript • Svelte • FastApi
+💻 Web & Database: HTML • CSS • MySQL • Tailwand • Sqlite
 🛠 Tools & Platforms: Git • Linux • VS Code  
 🔍 Interests: AI, Machine Learning, Data Analysis, Natural Language Processing  
 
@@ -33,14 +32,5 @@
 ---
 
 ### 🎯 Currently Learning
-- Learning NoSQL  
-- Preparation for PFE  
-- Learning Game Development
-
-### ⚙️ Fun Code Block
-
-```javascript
-const hello = "Hello, world!";
-const name = "Sybous Mohamed";
-console.log(`${hello} I am ${name} 👋`);
-
+- Portfolio
+- Project SFE
